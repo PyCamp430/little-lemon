@@ -1,4 +1,4 @@
 # little-lemon
 
-Project fro practice
+Project
 Little Lemon Restaurant app made using React.js
