@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  padding-bottom: 2rem;
+}
+
+nav img {
+  margin-right: 4rem;
+}
+
+.nav-link {
+  color: black;
+  font-weight: 500;
+}
+
+.nav-item {
+  padding-right: 2rem;
+}
+
+.header {
+  background-color: rgb(73, 94, 87);
+  padding: 1rem 10rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5rem;
+}
+
+.desc p {
+  color: white;
+  font-weight: 500;
+  font-stretch: expanded;
+  padding-right: 5rem;
+} 
+
+.desc h2 {
+  color: #F4CE14;
+  margin-bottom: 0;
+}
+
+.desc h4 {
+  color: white;
+}
+
+.desc button {
+  padding: 0.4rem 1rem;
+  border-radius: 0.8rem;
+  outline: none;
+  border: none;
+  color: black;
+  font-weight: 500;
+  background-color: #F4CE14;
+}
+
+.desc-img {
+  padding: 0.5rem 3rem;
+}
+
+.header img {
+  position: absolute;
+  border-radius: 1rem;
+  width: 25%;
+  height: 45%;
+}
